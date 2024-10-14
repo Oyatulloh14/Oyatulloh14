@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oyatulloh14
-- 👀 I’m interested in Veb dasturlash
-- 🌱 I’m currently learning Foundation
-- 💞️ I’m looking to collaborate on Rtm
-- 📫 How to reach ALIJONOV_3770
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
