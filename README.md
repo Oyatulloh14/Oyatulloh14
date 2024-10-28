@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Oyatulloh14
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Oyatulloh
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++ and a lot more tech stuff
 
 <!---
 Oyatulloh14/Oyatulloh14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
